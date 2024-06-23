@@ -3,8 +3,8 @@ This repository hosts all the code and report for my Udacity Data Scientist Nano
 Project Overview:
 The dataset used in this project simulates customer behavior on the Starbucks rewards mobile app. Periodically, Starbucks sends out offers to users, which can range from simple advertisements to actual incentives such as discounts or buy-one-get-one-free (BOGO) offers. Not all users receive the same offer, presenting a challenge to determine which demographics respond best to which offer types. This dataset is a simplified version of the real Starbucks app, focusing on a single product scenario.
 
-Problem Statement:
-The goal is to predict which purchase offers will elicit higher levels of user response, including actions like 'offer received', 'offer viewed', 'transaction', and 'offer completed'. This prediction will be based on customer demographic attributes and other features related to the offers provided by the company.
+Problem Statement :¶
+Predicting which purchase offers will elicit a higher level of response, such as 'offer received', 'offer viewed', 'transaction', and 'offer completed', based on both demographic attributes of customers and other characteristics of the company's offers.
 
 Installations:
 This project is implemented in Python, using Jupyter Notebook via Anaconda. The essential Python packages utilized include:
