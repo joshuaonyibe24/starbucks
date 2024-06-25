@@ -28,6 +28,8 @@ transcript.json: Data obtained from Kaggle (https://www.kaggle.com/blacktile/sta
 This project aims to apply data science techniques to understand customer behavior and optimize marketing strategies within the Starbucks rewards program, demonstrating practical applications of machine learning and predictive analytics in real-world business scenarios.
 
 
+LINK TO THE BLOG WEBSITE https://medium.com/@joshuaonyibe11/unlocking-customer-engagement-a-data-science-journey-with-starbucks-rewards-app-b3b80743b183
+
 
 
 
